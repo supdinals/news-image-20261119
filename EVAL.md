@@ -83,8 +83,8 @@ size.
 
 ## Final image
 
-- File: `entry.png` — 1024x1024 PNG, 178,292 bytes (limit 1 MiB).
-- sha256: `5326d52e88595ffecec6272049809e061510a756202487cc34fd014970dd4a08`
+- File: `entry.png` — 1024x1024 PNG, 154,812 bytes (limit 1 MiB).
+- sha256: `fbf571a665606912694771484e38e39209841ea3d3db8e1d9960b9bab569f7ce`
 - Determinism: `build/render.py` re-run reproduces variant C byte-for-byte;
   `main.py` was run twice into two directories and both outputs are
   byte-identical to `entry.png` (sha256 above).
